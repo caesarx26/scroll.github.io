@@ -1,4 +1,4 @@
-## description 
+## Description 
  A website that displays colors and a navbar that can help you scroll through the site easily.
 
 # scroll.github.io
